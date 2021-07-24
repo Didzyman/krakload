@@ -9,11 +9,11 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "images/kraken gaming official (1).png";
+var l_serverImage = "images/bbc.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Kraken Gaming UK";
+var l_serverName = "BBC Lovers";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -54,12 +54,6 @@ var l_bgImages = [
 	"backgrounds/images/Loading3.jpg",
 	"backgrounds/images/Loading4.jpg",
 	"backgrounds/images/Loading5.jpg",
-	"backgrounds/images/Loading6.jpg",
-	"backgrounds/images/Loading7.jpg",
-	"backgrounds/images/Loading8.jpg",
-	"backgrounds/images/Loading9.jpg",
-	"backgrounds/images/Loading10.jpg",
-	"backgrounds/images/Loading11.jpeg",
 ];
 
 /*Random background images order?*/
@@ -84,10 +78,10 @@ var l_bgDarkening = 50;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
-var l_music = true;
+var l_music = false;
 
 /*Display actual song's name?*/
-var l_musicDisplay = true;
+var l_musicDisplay = false;
 
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
